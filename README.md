@@ -1,4 +1,4 @@
-<h1 align="center"> Challenge ONE BACK END - JAVA</h1>
+<h1 align="center"> CHALLENGE ONE BACK END - JAVA</h1>
 <h2 align="center"> Sprint 01: Crea tu propio conversor de moneda </h2>
 
  
