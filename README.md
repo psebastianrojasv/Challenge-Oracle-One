@@ -16,20 +16,19 @@ Al iniciar se da la opción de elegir entre el conversor de monedas o el convers
 
 Al seleccionar "convertidor de moneda" nos mostrara un menú donde podremos seleccionar una de las  opciones para realizar la  conversión.
 
-![image]()
+![image](https://github.com/psebastianrojasv/Challenge-Oracle-One/blob/main/imagenes/2.PNG)
 
 Una vez elegida la conversion que quiere realizar aparecera un cuadro de diálogo en el cual se tiene que ingresar  el monto a convertir. 
 
-![image]() ![image]()  ![image]()
-
-
-En caso de que se ingrese un valor que  no sea válido o no se ingrese ningún valor, se mostrará un mensaje de error y se pregruntará si quiere iniciar de  nuevo .
-
-![image]()  ![image](https://user-images.githubusercontent.com/94869227/175195260-e2e93f0a-d01c-4413-9eb2-f106452f5c02.png) ![image]()
-
+![image](https://github.com/psebastianrojasv/Challenge-Oracle-One/blob/main/imagenes/3.PNG) 
 
 En el caso de que  no haya ningún error, se despliega un cuadro de diálogo con la conversión solicitada.
-![image]()
+![image](https://github.com/psebastianrojasv/Challenge-Oracle-One/blob/main/imagenes/3.2.PNG) 
+
+
+En caso de que se ingrese un valor que  no sea válido o no se ingrese ningún valor, se mostrará un mensaje de error y se preguntará si quiere iniciar de  nuevo .
+
+![image](https://user-images.githubusercontent.com/94869227/175195260-e2e93f0a-d01c-4413-9eb2-f106452f5c02.png) ![image](https://github.com/psebastianrojasv/Challenge-Oracle-One/blob/main/imagenes/3.3.PNG)
 
 
 Finalizando muestra un cuadro para elegir si se quiere intentar de  nuevo o si quiere finalizar.
@@ -38,7 +37,7 @@ Finalizando muestra un cuadro para elegir si se quiere intentar de  nuevo o si q
 
 En el caso de que se decida finalizar, el programa se cerrara, se mostrará un mensaje al usuario donde se indique "El Programa a Finalinado"
 
-![image]()
+![image](https://github.com/psebastianrojasv/Challenge-Oracle-One/blob/main/imagenes/4.PNG)
 
 
 En caso de seguir en el programa, se vuelve al comienzo para elegir otra conversión, en este caso  el conversor de temperatura
